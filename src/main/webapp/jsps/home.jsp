@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>RajamTechnologies-Technologies- Home Page</title>
+<title>Rajam SudheerTechnologies-Technologies- Home Page</title>
 <link href="images/thumbnail.png" rel="icon">
 </head>
 </head>
